@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://andymartens.github.io/sitemap.xml 
