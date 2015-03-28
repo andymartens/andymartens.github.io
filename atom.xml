@@ -4,7 +4,7 @@
   <title><![CDATA[Analyses]]></title>
   <link href="http://andymartens.github.io/atom.xml" rel="self"/>
   <link href="http://andymartens.github.io/"/>
-  <updated>2015-03-28T12:00:13-04:00</updated>
+  <updated>2015-03-28T12:04:45-04:00</updated>
   <id>http://andymartens.github.io/</id>
   <author>
     <name><![CDATA[Andy Martens]]></name>
@@ -28,14 +28,14 @@
 
 <p><img src="http://andymartens.github.io/images/dreams_to_real.png" title="[width] [height] [Emotion-words Most Representative of Dreams [alt text]]" ></p>
 
-<p>We can also plot the reverse &ndash; the emotion words that appeared in more descriptions of real life than dreams.</p>
+<p>We can also plot the reverse&mdash;the emotion words that appeared in more descriptions of real life than dreams.</p>
 
 <p><img src="http://andymartens.github.io/images/real_to_dreams.png" title="[width] [height] [Emotion-words Most Representative of Real Life [alt text]]" ></p>
 
-<p>Most apparent from these results, people used more negative emotion-words in their descriptions of dreams relative to real life events. Almost all&mdash;96%&mdash;of the dream-representative emotions are negative (if we treat &ldquo;shocked&rdquo; as a neutral word). Whereas only about 50% of the real life emotions are negative. In the same vein, if we just look at the negative words in both graphs, the negative words representative of dreams appear to be more intense. This pattern for dreams to have darker and more negative emotional content than descriptions of waking life is consistent with other research (e.g., Kemp &amp; Burt, 2003).</p>
+<p>Most apparent from these results, people used more negative emotion-words in their descriptions of dreams relative to real life events. Almost all of the dream-representative emotions are negative. Whereas only about 50% of the real life emotions are negative. In the same vein, if we just look at the negative words in both graphs, the negative words representative of dreams appear to be more intense. This pattern for dreams to have darker and more negative emotional content than descriptions of waking life is consistent with other research (e.g., Kemp &amp; Burt, 2003).</p>
 
 <p>What do these differences mean? Who knows. But it&rsquo;s conceivable that the differences
-we see between the two graphs can tell us about the unconscious &ndash; about the emotions
+we see between the two graphs can tell us about the unconscious&mdash;about the emotions
 that are buried beneath the surface during the day but that have an opportunity to express themselves during sleep while people&rsquo;s defenses and inhibitions are relaxed.</p>
 
 <!-- One difficulty here is that we don't know from this analysis whether the emotion-words pertain to the emotional state of the person writing the description or to some other person. A description that contains the emotion "angry" may contain the sentence "I am angry" or "I made him angry." In a future analysis we can attempt to distinguish between these two types of emotional expression. -->
