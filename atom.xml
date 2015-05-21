@@ -4,7 +4,7 @@
   <title><![CDATA[Analyses]]></title>
   <link href="http://andymartens.github.io/atom.xml" rel="self"/>
   <link href="http://andymartens.github.io/"/>
-  <updated>2015-03-28T15:29:26-04:00</updated>
+  <updated>2015-05-20T21:57:03-04:00</updated>
   <id>http://andymartens.github.io/</id>
   <author>
     <name><![CDATA[Andy Martens]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Emotions in Dreams vs. Real Life (2)]]></title>
+    <link href="http://andymartens.github.io/blog/2015/04/21/dreams-2/"/>
+    <updated>2015-04-21T16:47:48-04:00</updated>
+    <id>http://andymartens.github.io/blog/2015/04/21/dreams-2</id>
+    <content type="html"><![CDATA[<p>How are the emotions we experience in dreams different than the emotions we experience during real life events?</p>
+
+<p>We can get some clues about this by analyzing a publicly available dataset. 185 people each described two dreams and two real life events. That&rsquo;s <a href="http://sleepanddreamdatabase.org/dream/search?searchtoggle=1&amp;searchtab=0&amp;urlenv=%7B%7D&amp;incl=%7B%22kahan_q2%22%3A+1%2C+%22kahan_q1%22%3A+1%7D&amp;searchconstraint=%7B%7D&amp;searchquery=&amp;minwords=&amp;maxwords=&amp;onlyperson=">370 dreams</a> and <a href="http://sleepanddreamdatabase.org/dream/search?searchtoggle=1&amp;searchtab=0&amp;urlenv=%7B%7D&amp;incl=%7B%22kahan_q3%22%3A+1%2C+%22kahan_q4%22%3A+1%7D&amp;searchconstraint=%7B%7D&amp;searchquery=&amp;minwords=&amp;maxwords=&amp;onlyperson=">370 real life events</a> for analysis.</p>
+
+<p>Analyzing these data first entailed constructing a dictionary of <a href="https://github.com/andymartens/fletcher/blob/master/emotion_words.txt">589 emotion-related words-groups</a>. These word-groups consisted of all variants on the same underlying emotion (e.g., joy, joyful, joyfully, joyous, joyously, joys, joyed). Then I computed and graphed <a href="https://github.com/andymartens/fletcher/blob/master/dreams_ratio_formula.txt">Bayesian estimates</a> that gauged the likelihood of each of these emotion-groups occurring in dreams as compared to real life. The graph on the left shows emotions more likely in dreams. For example, &ldquo;scared&rdquo; is about three times as likely to show up in a dream than in a real event. The graph on the right shows emotions more likely in real experiences.</p>
+
+<p>The colors provide an overall sense of how the emotional content of dreams and real experiences differ. Red reflects negative emotions and green reflects positive emotions. The brighter the red or the green, the more intense the emotion. Incorporating emotional intensity was made possible by using <a href="link">existing ratings</a> collected in prior research.</p>
+
+<p><img src="http://andymartens.github.io/images/two_graphs.png" title="[width] [height] [Emotion-words Most Representative of Dreams [alt text]]" ></p>
+
+<p>By comparing the overall color schemes of the graphs, it&rsquo;s clear that people use more negative emotions in descriptions of dreams than real events. The negative emotions more common in dreams also appear to be particularly intense&mdash;the reds tend to be brighter in the dream graph on the left. This pattern for dreams to have more negative emotional content than descriptions of waking life is consistent with <a href="http://onlinelibrary.wiley.com/doi/10.1002/acp.890/abstract">other research</a>.</p>
+
+<p>What does this mean? It&rsquo;s conceivable that these differences can tell us about the unconscious&mdash;about the emotions
+that are buried beneath the surface during the day but that have an opportunity to express themselves during sleep while people&rsquo;s defenses and inhibitions are relaxed.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Emotions in Dreams vs. Real Life]]></title>
